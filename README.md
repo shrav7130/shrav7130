@@ -5,7 +5,7 @@ Aspiring Data Analyst who enjoys turning messy, real-world data into dashboards 
 - 🔍 Currently building projects across **finance, retail, and telecom** data
 - 🧰 Comfortable across the full pipeline: Python → SQL → BI dashboard
 - 🤖 Recently explored **LangChain + OpenAI API** to build an AI agent
-- 📫 Reach me: shravan7130@gmail.com · [LinkedIn](https://www.linkedin.com/in/shravan-surve-53359a280/)
+- 📫 Reach me: surveshravan21@gmail.com · [LinkedIn](https://www.linkedin.com/in/shravan-surve-53359a280/)
 
 ---
 
